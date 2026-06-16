@@ -47,6 +47,6 @@ biopython（处理FASTA格式的野生型序列文件、验证氨基酸序列合
 
 └── docs/                  # 设计说明文档和辅助材料
 
-    └── design_documentation.pdf
+│   └── design_documentation.pdf
 
     
