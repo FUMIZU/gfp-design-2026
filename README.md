@@ -23,8 +23,6 @@ biopython（处理FASTA格式的野生型序列文件、验证氨基酸序列合
 
 安装命令为：pip install fair-esm transformers xgboost scikit-learn pandas numpy biopython
 
-在魔搭JupyterLab中可在代码前加感叹号执行
-
 
 目录结构：
 ├── README.md              # 项目说明和复现指引
